@@ -118,7 +118,7 @@ export const HeroBanner = ({
               {...inspectorProps({ fieldId: 'heroBannerHeadline' })}
               ref={headingRef}
               as="h1"
-              letterSpacing="-0.11em"
+              letterSpacing="-0.2em"
               color={heroBannerHeadlineColor || 'white'}
               transform="translateY(0.33em)"
               whiteSpace="nowrap">
